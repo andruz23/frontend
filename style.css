@@ -1,13 +1,13 @@
 body{
-	background: #efc792;
-	font-family: Arial;
+	background: #0A3F5F;
+	font-family: sans-serif;
 	font-size: 16px;
 }
 
 header{
 	border: 1px solid red;
-	background: #98d1e3;
-	color: white;
+	background: #1E5C5C;
+	color: 24, 23, 23;
 	overflow: hidden;
 	padding: 1em;
 }
@@ -26,7 +26,7 @@ header #logo img{
 }
 
 nav{
-	background: #eaf0be;
+	background: #17637E;
 	text-align: center;
 	padding: 1em;
 }
